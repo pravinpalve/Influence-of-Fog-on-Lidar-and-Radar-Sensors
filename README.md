@@ -1,6 +1,6 @@
 # Influence-of-Fog-on-Lidar-and-Radar-Sensors
 This project was part of my academics in the subject 'Lidar and Radar Systems' at Hochschule Ravenburg Weingarten.
-In this project, we will be analysing point cloud data from different types of Lidar sensors and one Rasar sensor and evaluate their performance.
+In this project, we will be analysing point cloud data from different types of Lidar sensors and one Radar sensor and evaluate their performance.
 
 Sensors Used in this Project are as follows-
 1. Velodyne Puck
